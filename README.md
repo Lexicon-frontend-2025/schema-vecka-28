@@ -58,4 +58,4 @@ Efter denna vecka ska du:
 * **\[Tisdag\]** (Maja) - **Formulär i TypeScript & Typvalidering & Destructuring:** Hantera formulärdata, grundläggande validering av input. Introduktion till Destructuring för objekt och arrayer.
 * **\[Onsdag\]** (Maja) - **Events, Bubbling, Event Handling, Prevent Default:** Fördjupning i händelsehantering, förstå händelseflödet (bubbling), `event.preventDefault()`. Arbeta med att reagera på och manipulera data baserat på events.
 * **\[Torsdag\]** (Maja) - **Intro till Moduler & Projektstruktur:** Varför och hur man använder moduler för att organisera kod i större projekt. Diskussion om projektstruktur. 
-* **\[Fredag\]** (TBA) - **Jobb med stora övningen "Bucket List":** Handledning
+* **\[Fredag\]** (Maja) - **Jobb med stora övningen "Bucket List":** Handledning
