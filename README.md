@@ -23,12 +23,10 @@ Efter denna vecka ska du:
 * [TypeScript Best Practices (Pluralsight)](https://app.pluralsight.com/library/courses/typescript-best-practices/table-of-contents) *(Relevant för moduler och större projekt)*
 
 ### YouTube
+* [TypeScript Course for Beginners – Academind](https://www.youtube.com/watch?v=BwuLxPH8IDs)
 * [TypeScript in 100 Seconds – Fireship](https://www.youtube.com/watch?v=BCg4U1FzODs)
-* [JavaScript Forms Tutorial - The Net Ninja](https://www.youtube.com/watch?v=f2N8yL2N-eQ) *(Fokusera på JavaScript-delen, koncepten är desamma i TS)*
-* [JavaScript Event Bubbling & Delegation - Traversy Media](https://www.youtube.com/watch?v=gB9n2gBgziQ)
-* [JavaScript Modules Explained - Web Dev Simplified](https://www.youtube.com/watch?v=s9kNptK9j1Q)
-* [Destructuring in JavaScript - The Net Ninja](https://www.youtube.com/watch?v=fK_QfV1B168)
-* [Spread Operator in JavaScript - The Net Ninja](https://www.youtube.com/watch?v=qQJgA0d0324)
+* [Installing TypeScript & Project Setup – The Net Ninja](https://www.youtube.com/watch?v=ahCwqrYpIuM)
+* [Interfaces vs Types in TypeScript – onjsdev](https://www.youtube.com/watch?v=BTBftM7D9v8) *(Mycket relevant för denna vecka!)*
 
 ### Läsning
 * [TypeScript Handbook - Everyday Types (repetition)](https://www.typescriptlang.org/docs/handbook/2/everyday-types.html)
