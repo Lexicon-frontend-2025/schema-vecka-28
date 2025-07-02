@@ -31,7 +31,6 @@ Efter denna vecka ska du:
 ### Läsning
 * [TypeScript Handbook - Everyday Types (repetition)](https://www.typescriptlang.org/docs/handbook/2/everyday-types.html)
 * [MDN - Working with forms](https://developer.mozilla.org/en-US/docs/Learn/Forms)
-* [MDN - Event reference](https://developer.mozilla.org/en-US/docs/Web/API/Event/preventDefault)
 * [MDN - Event bubbling and capturing](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Building_blocks/Events#event_bubbling_and_capturing)
 * [MDN - HTMLFormElement.submit()](https://developer.mozilla.org/en-US/docs/Web/API/HTMLFormElement/submit)
 * [MDN - Event.preventDefault()](https://developer.mozilla.org/en-US/docs/Web/API/Event/preventDefault)
