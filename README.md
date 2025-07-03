@@ -45,6 +45,7 @@ Efter denna vecka ska du:
 * Publiceras löpande under veckan.
 
 ## ➕ Övrigt
+* [TypeScript Boilerplate](https://github.com/Lexicon-frontend-2025/ts-boilerplate) - slipp konfigurera TS-projekt varje gång
 * [TypeScript Playground](https://www.typescriptlang.org/play) – testa kod direkt i webbläsaren.
 * [TypeScript Cheatsheet](https://github.com/Lexicon-frontend-2025/typescript-cheatsheet/blob/main/README.md) - cheatsheet a'la Maja.
 * [TypeScript Cheatsheets](https://github.com/typescript-cheatsheets) – lista av referenser.
