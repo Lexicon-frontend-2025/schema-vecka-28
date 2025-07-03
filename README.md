@@ -21,12 +21,9 @@ Efter denna vecka ska du:
 ### E‑Learning
 * [TypeScript: Big Picture (Pluralsight)](https://app.pluralsight.com/library/courses/typescript-big-picture/table-of-contents)
 * [TypeScript Best Practices (Pluralsight)](https://app.pluralsight.com/library/courses/typescript-best-practices/table-of-contents) *(Relevant för moduler och större projekt)*
+* [TypeScript - DOM-manipulation, typescriptlang](https://app.pluralsight.com/library/courses/typescript-dom-manipulation/table-of-contents)
 
 ### YouTube
-* [TypeScript Course for Beginners – Academind](https://www.youtube.com/watch?v=BwuLxPH8IDs)
-* [TypeScript in 100 Seconds – Fireship](https://www.youtube.com/watch?v=BCg4U1FzODs)
-* [Installing TypeScript & Project Setup – The Net Ninja](https://www.youtube.com/watch?v=ahCwqrYpIuM)
-* [Interfaces vs Types in TypeScript – onjsdev](https://www.youtube.com/watch?v=BTBftM7D9v8) *(Mycket relevant för denna vecka!)*
 
 ### Läsning
 * [TypeScript Handbook - Everyday Types (repetition)](https://www.typescriptlang.org/docs/handbook/2/everyday-types.html)
