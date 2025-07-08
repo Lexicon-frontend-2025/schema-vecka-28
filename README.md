@@ -36,7 +36,7 @@ Efter denna vecka ska du:
 * [TypeScript Handbook - Modules](https://www.typescriptlang.org/docs/handbook/modules.html)
 
 ## 🛠️ Övningar
-* Nya övningar kommer att presenteras under veckan som fokuserar på formulär, validering, events och moduler.
+* [Formulär i TypeScript & Typvalidering & Destructuring](https://github.com/Lexicon-frontend-2025/typescript_uppgift-typevalidation-destructuring/blob/main/README.md)
 * **Stora Övningen: "Bucket List"**
     * Detta är veckans större projekt som ni kommer att arbeta med under fredagen och under nästa vecka.
     * Beskrivning kommer att presenteras under veckan.
