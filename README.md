@@ -54,6 +54,6 @@ Efter denna vecka ska du:
 
 * **[Måndag](https://github.com/Lexicon-frontend-2025/lektion-7-juli)** (Maja) - **Repetition & Code-Along:** Repetition av tidigare koncept. Gemensam code-along för ett större projekt för att knyta ihop allt.
 * **[Tisdag](https://github.com/Lexicon-frontend-2025/lektion-7-juli)** (Maja) - **Formulär i TypeScript & Typvalidering & Destructuring:** Hantera formulärdata, grundläggande validering av input. Introduktion till Destructuring för objekt och arrayer.
-* **[Onsdag]** (Maja) - **Events, Bubbling, Event Handling, Prevent Default:** Fördjupning i händelsehantering, förstå händelseflödet (bubbling), `event.preventDefault()`. Arbeta med att reagera på och manipulera data baserat på events.
+* **[Onsdag](https://github.com/Lexicon-frontend-2025/lektion-9-juli)** (Maja) - **Events, Bubbling, Event Handling, Prevent Default:** Fördjupning i händelsehantering, förstå händelseflödet (bubbling), `event.preventDefault()`. Arbeta med att reagera på och manipulera data baserat på events.
 * **\[Torsdag\]** (Maja) - **Intro till Moduler & Projektstruktur:** Varför och hur man använder moduler för att organisera kod i större projekt. Diskussion om projektstruktur. 
 * **\[Fredag\]** (Maja) - **Jobb med stora övningen "Bucket List":** Handledning
