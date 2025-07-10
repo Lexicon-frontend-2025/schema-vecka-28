@@ -37,12 +37,12 @@ Efter denna vecka ska du:
 
 ## 🛠️ Övningar
 * [Formulär i TypeScript & Typvalidering & Destructuring](https://github.com/Lexicon-frontend-2025/typescript_uppgift-typevalidation-destructuring/blob/main/README.md)
-* **Stora Övningen: "Bucket List"**
+* [**Stora Övningen: "Bucket List"**](https://github.com/Lexicon-frontend-2025/typescript_uppgift-bucketlist/blob/main/README.md)
     * Detta är veckans större projekt som ni kommer att arbeta med under fredagen och under nästa vecka.
-    * Beskrivning kommer att presenteras under veckan.
 
 ## 🖥️ Slides
-* Publiceras löpande under veckan.
+* [Events & Event Bubbling med Planned Planthood](https://docs.google.com/presentation/d/1nSdYj4wKdqa3xs7lpHuEd8rEVFbNoLWyn_B1AyglTxI/edit?usp=sharing)
+* [Moduler och projektstruktur](https://docs.google.com/presentation/d/1k18gMDWV-tYcLhhNkHUY3m29y5HMVgeRiMQ6YXQAC9g/edit?usp=sharing)
 
 ## ➕ Övrigt
 * [TypeScript Boilerplate](https://github.com/Lexicon-frontend-2025/ts-boilerplate) - slipp konfigurera TS-projekt varje gång
