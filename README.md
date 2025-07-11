@@ -37,7 +37,7 @@ Efter denna vecka ska du:
 
 ## 🛠️ Övningar
 * [Formulär i TypeScript & Typvalidering & Destructuring](https://github.com/Lexicon-frontend-2025/typescript_uppgift-typevalidation-destructuring/blob/main/README.md)
-* [**Stora Övningen: "Bucket List"**](https://github.com/Lexicon-frontend-2025/typescript_uppgift-bucketlist/blob/main/README.md)
+* [**Stora Övningen: "Bucket List"**](https://github.com/Lexicon-frontend-2025/typescript_uppgift-bucketlist/blob/main/exercise-description.md)
     * Detta är veckans större projekt som ni kommer att arbeta med under fredagen och under nästa vecka.
 
 ## 🖥️ Slides
